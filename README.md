@@ -1,14 +1,14 @@
 <body>
-<h2><b>Crosshair</h2>
+<h2><b>Crosshair
 <h6>CSGO-kF8u4-aYt7a-iaz4e-7UHfh-F2fyC</h6>
 
-<h2><b>Video</h2>
+<h2><b>Video
 <h6>mode : fullscreen windowed</h6>
 <h6>aspect ratio : widescreen 4:3</h6>
 <h6>resolution : 1280x768</h6>
 <h6>brightness : 67</h6>
 
-</h6>boost player contrast : disabled
+boost player contrast : disabled
 
 <h6>v-sync : disabled</h6>
 <h6>g-sync : disabled</h6>
@@ -30,7 +30,7 @@
 <h6>Nvidia settings</h6>
 <h6>shader cache : unlimited</h6>
 
-<h2><b>Keyboard and Mouse</h2>
+<h2><b>Keyboard and Mouse
 <h6>MOUSE</h6>
 
 <h6>reverse mouse : off</h6>
@@ -69,5 +69,3 @@
 <h6>flashbang : v</h6>
 <h6>smoke : c</h6>
 <h6>molotov/incendiary : x</h6>
-</h6><br><br>
-</body>
